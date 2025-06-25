@@ -250,6 +250,189 @@
       </div>
 
     </section><!-- /Stats Section -->
+
+    <!-- Team Section -->
+    <section id="team" class="team section">
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Team</h2>
+        <p>Driven by dedication and expertise, our team thrives on delivering impactful solutions and building lasting
+          partnerships.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row">
+          <div class="col-lg-4 team-intro" data-aos="fade-right" data-aos-delay="200">
+            <div class="team-intro-content">
+              <h2>Meet Our Experts</h2>
+              <p>Get to know the professionals behind our success—skilled, experienced, and committed to helping your
+                business grow through innovative and reliable solutions.</p>
+              <div class="team-navigation">
+                <button class="team-nav-prev"><i class="bi bi-arrow-left"></i></button>
+                <button class="team-nav-next"><i class="bi bi-arrow-right"></i></button>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-8 team-carousel-wrap">
+            <div class="team-carousel swiper init-swiper">
+              <script type="application/json" class="swiper-config">
+                {
+                  "loop": true,
+                  "speed": 800,
+                  "autoplay": {
+                    "delay": 5000
+                  },
+                  "slidesPerView": 1,
+                  "spaceBetween": 20,
+                  "navigation": {
+                    "nextEl": ".team-nav-next",
+                    "prevEl": ".team-nav-prev"
+                  },
+                  "breakpoints": {
+                    "576": {
+                      "slidesPerView": 2,
+                      "spaceBetween": 20
+                    },
+                    "992": {
+                      "slidesPerView": 2,
+                      "spaceBetween": 30
+                    }
+                  }
+                }
+              </script>
+              <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                  <div class="member-card">
+                    <div class="member-image">
+                      <img src="assets/wonderkidassets/team/man1.jpeg" class="img-fluid" alt="DICKSON MARIRA"
+                        loading="lazy">
+                    </div>
+                    <div class="member-info">
+                      <h3>Dickson Marira</h3>
+                      <span>Chief Executive Officer</span>
+                      <div class="member-social">
+                        <a href="https://x.com/dicksonmarira"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://www.facebook.com/dmarira"><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/dicksonmarira/"><i class="bi bi-linkedin"></i></a>
+                      </div>
+                      <div class="member-bio">
+                        <p>An accomplished leader, project manager, and software engineer with over 13
+                          years of experience driving innovation and transformation in public, private, and
+                          international development organizations. Throughout his career, he has designed, developed,
+                          and implemented cutting-edge software tools, delivering impactful solutions for organization
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End slide item -->
+
+                <div class="swiper-slide">
+                  <div class="member-card">
+                    <div class="member-image">
+                      <img src="assets/wonderkidassets/team/man2.jpeg" class="img-fluid" alt="DANIEL KAMIRI"
+                        loading="lazy">
+                    </div>
+                    <div class="member-info">
+                      <h3>Daniel Kamiri</h3>
+                      <span>Director</span>
+                      <div class="member-social">
+                        <a href="https://x.com/DKamiri69885"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://www.facebook.com/dan.kamiri"><i class="bi bi-facebook"></i></a>
+                        <a href="#"><i class="bi bi-linkedin"></i></a>
+                      </div>
+                      <div class="member-bio">
+                        <p>He leads Wonderkid's strategic direction, driving innovation in mobile and
+                          web-based utility management solutions. He has played a key role in deploying digital systems
+                          that improve service delivery for water utilities across Kenya. His work reflects a strong
+                          commitment to using technology for practical, high-impact solutions across both local and
+                          international markets.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End slide item -->
+
+                <div class="swiper-slide">
+                  <div class="member-card">
+                    <div class="member-image">
+                      <img src="assets/wonderkidassets/team/man3.jpeg" class="img-fluid" alt="PHILLIP MWANIKI"
+                        loading="lazy">
+                    </div>
+                    <div class="member-info">
+                      <h3>Phillip Mwaniki</h3>
+                      <span>Head of Engineering</span>
+                      <div class="member-social">
+                        <a href="https://x.com/phillipmwaniki"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://www.facebook.com/phillipmwaniki"><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/pmwaniki/"><i class="bi bi-linkedin"></i></a>
+                      </div>
+                      <div class="member-bio">
+                        <p>With over a decade of backend development experience, he specializes in building scalable PHP
+                          (Laravel) applications, high-performance APIs, and robust system architectures. He is
+                          passionate about mentorship, teamwork, and delivering efficient, reliable software solutions.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End slide item -->
+
+                <div class="swiper-slide">
+                  <div class="member-card">
+                    <div class="member-image">
+                      <img src="assets/wonderkidassets/team/woman1.jpeg" class="img-fluid" alt="ABIGAL LYANI"
+                        loading="lazy">
+                    </div>
+                    <div class="member-info">
+                      <h3>Abigael Lyani</h3>
+                      <span>Head of Project Implementations</span>
+                      <div class="member-social">
+                        <a href="#"><i class="bi bi-twitter-x"></i></a>
+                        <a href="#"><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/abigaelmulima/"><i class="bi bi-linkedin"></i></a>
+                      </div>
+                      <div class="member-bio">
+                        <p>A results-driven Data Scientist with a proven track record in developing and deploying
+                          advanced analytics models. Skilled in data infrastructure, statistical analysis, and machine
+                          learning, with a focus on delivering insights that support business goals.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End slide item -->
+
+                <div class="swiper-slide">
+                  <div class="member-card">
+                    <div class="member-image">
+                      <img src="assets/wonderkidassets/team/woman2.jpeg" class="img-fluid" alt="ROSEMARY KHALIFA"
+                        loading="lazy">
+                    </div>
+                    <div class="member-info">
+                      <h3>Rosemary Khalifa</h3>
+                      <span>Head of Business Development</span>
+                      <div class="member-social">
+                        <a href="https://x.com/khalyfrose"><i class="bi bi-twitter-x"></i></a>
+                        <a href="#"><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/rosemary-nduta-khalifa-3a9546184/"><i
+                            class="bi bi-linkedin"></i></a>
+                      </div>
+                      <div class="member-bio">
+                        <p>Head of Business Development at Wonderkid Multimedia Limited, leading strategic growth
+                          initiatives in the technology and software sector. Leverages data-driven insights and market
+                          trends to drive product adoption and strengthen client engagement.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End slide item -->
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- /Team Section -->
+
     <!-- Call To Action Section -->
     <section id="call-to-action" class="call-to-action section light-background">
       <div class="container" data-aos="fade-up" data-aos-delay="100">

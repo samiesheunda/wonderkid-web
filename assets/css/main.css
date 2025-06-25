@@ -13,7 +13,7 @@
 :root {
   --background-color: #a8a9ad;
   /* Background color for the entire website, including individual sections */
-  --default-color: #52413a;
+  --default-color: #000435;
   /* Default color used for the majority of the text content across the entire website */
   --heading-color: #000035;
   /* Color for headings, subheadings and title throughout the website */
@@ -41,7 +41,7 @@
   /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
 
-/* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
+/* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the same color scheme. */
 
 .light-background {
   --background-color: #f8f5f4;
@@ -49,8 +49,8 @@
 }
 
 .dark-background {
-  --background-color: #060606;
-  --default-color: #ffffff;
+  --background-color: #1b2032;
+  --default-color: #ddedf7;
   --heading-color: #ffffff;
   --surface-color: #343333;
   --contrast-color: #ffffff;
