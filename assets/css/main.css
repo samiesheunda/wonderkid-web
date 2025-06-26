@@ -18,11 +18,13 @@
   --heading-color: #000035;
   /* Color for headings, subheadings and title throughout the website */
   --accent-color: #000035;
-  /* Accent color that represents #f85d23 your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #ffffff;
   /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff;
   /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+  --alt-color: #000000;
+  /* Alternative color for the text */
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
@@ -764,7 +766,7 @@ section,
 }
 
 .hero h1 .highlight {
-  color: var(--accent-color);
+  color: var(--alt-color);
 }
 
 @media (min-width: 992px) {
@@ -858,7 +860,7 @@ section,
 }
 
 .hero .hero-image-wrapper .stat-card.bottom-left {
-  bottom: 40px;
+  bottom: 20px;
   left: 0px;
 }
 

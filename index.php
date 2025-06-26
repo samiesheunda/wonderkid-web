@@ -43,7 +43,6 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="#hero" class="active">Home</a></li>
-          <li><a href="#about">About</a></li>
           <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="https://utilitymaster.app/">Utility Master</a></li>
@@ -51,6 +50,8 @@
               <li><a href="https://teamingbox.com/welcome.php">Business Process Automation</a></li>
             </ul>
           </li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#team">Team</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -87,7 +88,7 @@
           </div>
           <div class="col-lg-6">
             <div class="hero-image-wrapper" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/about/about-square-13.webp" alt="" class="img-fluid hero-image">
+              <img src="assets/wonderkidassets/group/dicksonwaspa.jpg" alt="WASPA" class="img-fluid hero-image">
               <div class="stat-card top-right">
                 <div class="stat-value">75.3K</div>
                 <div class="stat-label">Improved market presence</div>
@@ -447,7 +448,7 @@
             </div>
           </div>
           <div class="cta-image" data-aos="fade-left" data-aos-delay="300">
-            <img src="assets/img/illustration/illustration-13.webp" alt="CTA Illustration" class="img-fluid">
+            <img src="assets/wonderkidassets/group/danwaspa.jpg" alt="CTA Illustration" class="img-fluid">
           </div>
         </div>
       </div>
@@ -555,48 +556,48 @@
         <div class="clients-slider">
           <div class="clients-track track-1" data-aos="fade-right" data-aos-delay="200">
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/thiwasco.jpg" class="img-fluid" alt="THIWASCO">
+              <img src="assets/wonderkidassets/clients/thiwasco.jpg" class="img-fluid" alt="THIWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/muwasco.jpg" class="img-fluid" alt="MUWASCO">
+              <img src="assets/wonderkidassets/clients/muwasco.jpg" class="img-fluid" alt="MUWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/nyanas.jpg" class="img-fluid" alt="NYANAS">
+              <img src="assets/wonderkidassets/clients/nyanas.jpg" class="img-fluid" alt="NYANAS">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/lowasco.jpg" class="img-fluid" alt="LOWASCO">
+              <img src="assets/wonderkidassets/clients/lowasco.jpg" class="img-fluid" alt="LOWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/nairobiwater.png" class="img-fluid" alt="NAIROBIWATER">
+              <img src="assets/wonderkidassets/clients/nairobiwater.png" class="img-fluid" alt="NAIROBIWATER">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/wasreb.jpg" class="img-fluid" alt="WASREB">
+              <img src="assets/wonderkidassets/clients/wasreb.jpg" class="img-fluid" alt="WASREB">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/gulfwater.png" class="img-fluid" alt="GULFWATER">
+              <img src="assets/wonderkidassets/clients/gulfwater.png" class="img-fluid" alt="GULFWATER">
             </div>
 
             <!-- Duplicate for seamless looping -->
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/thiwasco.jpg" class="img-fluid" alt="THIWASCO">
+              <img src="assets/wonderkidassets/clients/thiwasco.jpg" class="img-fluid" alt="THIWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/muwasco.jpg" class="img-fluid" alt="MUWASCO">
+              <img src="assets/wonderkidassets/clients/muwasco.jpg" class="img-fluid" alt="MUWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/nyanas.jpg" class="img-fluid" alt="NYANAS">
+              <img src="assets/wonderkidassets/clients/nyanas.jpg" class="img-fluid" alt="NYANAS">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/lowasco.jpg" class="img-fluid" alt="LOWASCO">
+              <img src="assets/wonderkidassets/clients/lowasco.jpg" class="img-fluid" alt="LOWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/nairobiwater.png" class="img-fluid" alt="NAIROBIWATER">
+              <img src="assets/wonderkidassets/clients/nairobiwater.png" class="img-fluid" alt="NAIROBIWATER">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/wasreb.jpg" class="img-fluid" alt="WASREB">
+              <img src="assets/wonderkidassets/clients/wasreb.jpg" class="img-fluid" alt="WASREB">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/gulfwater.png" class="img-fluid" alt="GULFWATER">
+              <img src="assets/wonderkidassets/clients/gulfwater.png" class="img-fluid" alt="GULFWATER">
             </div>
           </div>
         </div>
@@ -604,48 +605,48 @@
         <div class="clients-slider">
           <div class="clients-track track-2" data-aos="fade-left" data-aos-delay="300">
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/gulfwater.png" class="img-fluid" alt="GULFWATER">
+              <img src="assets/wonderkidassets/clients/gulfwater.png" class="img-fluid" alt="GULFWATER">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/wasreb.jpg" class="img-fluid" alt="WASREB">
+              <img src="assets/wonderkidassets/clients/wasreb.jpg" class="img-fluid" alt="WASREB">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/nairobiwater.png" class="img-fluid" alt="NAIROBIWATER">
+              <img src="assets/wonderkidassets/clients/nairobiwater.png" class="img-fluid" alt="NAIROBIWATER">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/lowasco.jpg" class="img-fluid" alt="LOWASCO">
+              <img src="assets/wonderkidassets/clients/lowasco.jpg" class="img-fluid" alt="LOWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/nyanas.jpg" class="img-fluid" alt="NYANAS">
+              <img src="assets/wonderkidassets/clients/nyanas.jpg" class="img-fluid" alt="NYANAS">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/muwasco.jpg" class="img-fluid" alt="MUWASCO">
+              <img src="assets/wonderkidassets/clients/muwasco.jpg" class="img-fluid" alt="MUWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/thiwasco.jpg" class="img-fluid" alt="THIWASCO">
+              <img src="assets/wonderkidassets/clients/thiwasco.jpg" class="img-fluid" alt="THIWASCO">
             </div>
 
             <!-- Duplicate for seamless looping -->
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/gulfwater.png" class="img-fluid" alt="GULFWATER">
+              <img src="assets/wonderkidassets/clients/gulfwater.png" class="img-fluid" alt="GULFWATER">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/wasreb.jpg" class="img-fluid" alt="WASREB">
+              <img src="assets/wonderkidassets/clients/wasreb.jpg" class="img-fluid" alt="WASREB">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/nairobiwater.png" class="img-fluid" alt="NAIROBIWATER">
+              <img src="assets/wonderkidassets/clients/nairobiwater.png" class="img-fluid" alt="NAIROBIWATER">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/lowasco.jpg" class="img-fluid" alt="LOWASCO">
+              <img src="assets/wonderkidassets/clients/lowasco.jpg" class="img-fluid" alt="LOWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/nyanas.jpg" class="img-fluid" alt="NYANAS">
+              <img src="assets/wonderkidassets/clients/nyanas.jpg" class="img-fluid" alt="NYANAS">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/muwasco.jpg" class="img-fluid" alt="MUWASCO">
+              <img src="assets/wonderkidassets/clients/muwasco.jpg" class="img-fluid" alt="MUWASCO">
             </div>
             <div class="clients-slide">
-              <img src="assets/wonderkidassets/thiwasco.jpg" class="img-fluid" alt="THIWASCO">
+              <img src="assets/wonderkidassets/clients/thiwasco.jpg" class="img-fluid" alt="THIWASCO">
             </div>
           </div>
         </div>
@@ -671,10 +672,10 @@
             <p><strong>Email:</strong> <span>support@wonderkid.co.ke</span></p>
           </div>
           <div class="social-links d-flex mt-4">
+            <a href="https://www.linkedin.com/company/wonderkidmultimedialimited/"><i class="bi bi-linkedin"></i></a>
             <a href=""><i class="bi bi-twitter-x"></i></a>
             <a href=""><i class="bi bi-facebook"></i></a>
             <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
           </div>
         </div>
 
@@ -724,7 +725,8 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Wonderkid Multimedia Limited</strong> <span>All Rights
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Wonderkid Multimedia Limited</strong> <span>All
+          Rights
           Reserved</span></p>
       <div class="credits">
 
