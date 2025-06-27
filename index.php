@@ -45,7 +45,7 @@
           <li><a href="#hero" class="active">Home</a></li>
           <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="https://utilitymaster.app/">Utility Master</a></li>
+              <li><a href="https://utilitymaster.app/">UtilityMaster ERP</a></li>
               <li><a href="https://majisafi.app/">MajiSafi App</a></li>
               <li><a href="https://teamingbox.com/welcome.php">Business Process Automation</a></li>
             </ul>
@@ -696,28 +696,22 @@
           <ul>
             <li><a href="#services">Web Design</a></li>
             <li><a href="#services">Web Development</a></li>
-            <li><a href="#services">App Developmentt</a></li>
+            <li><a href="#services">App Development</a></li>
             <li><a href="#services">Product Management</a></li>
-            <li><a href="#services">Marketing</a></li>
           </ul>
         </div>
 
         <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Legal</h4>
+          <h4>Products</h4>
           <ul>
-            <li><a href="#contact">Terms of Service</a></li>
-            <li><a href="#https://dev.majisafi.app/privacy-policy">Privacy Policy</a></li>
-            <li><a href="#">Cookie Policy</a></li>
+            <li><a href="https://utilitymaster.app/">UtilityMaster ERP</a></li>
+            <li><a href="https://majisafi.app/">Majisafi Mobile App</a></li>
+            <li><a href="https://teamingbox.com/welcome.php">Business Process Automation</a></li>
           </ul>
         </div>
 
         <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Get in Touch</h4>
-          <ul>
-            <li><a href="#hero">Support</a></li>
-            <li><a href="#hero">Community</a></li>
-            <li><a href="#contact">Contact</a></li>
-          </ul>
+
         </div>
 
 
