@@ -308,23 +308,21 @@
                 <div class="swiper-slide">
                   <div class="member-card">
                     <div class="member-image">
-                      <img src="assets/wonderkidassets/team/man1.jpeg" class="img-fluid" alt="DICKSON MARIRA"
+                      <img src="assets/wonderkidassets/team/abigael.jpg" class="img-fluid" alt="ABIGAL LYANI"
                         loading="lazy">
                     </div>
                     <div class="member-info">
-                      <h3>Dickson Marira</h3>
-                      <span>Chief Executive Officer</span>
+                      <h3>Abigael Lyani</h3>
+                      <span>Head of Project Implementations</span>
                       <div class="member-social">
-                        <a href="https://x.com/dicksonmarira"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://www.facebook.com/dmarira"><i class="bi bi-facebook"></i></a>
-                        <a href="https://www.linkedin.com/in/dicksonmarira/"><i class="bi bi-linkedin"></i></a>
+                        <a href="#"><i class="bi bi-twitter-x"></i></a>
+                        <a href="#"><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/abigaelmulima/"><i class="bi bi-linkedin"></i></a>
                       </div>
                       <div class="member-bio">
-                        <p>An accomplished leader, project manager, and software engineer with over 13
-                          years of experience driving innovation and transformation in public, private, and
-                          international development organizations. Throughout his career, he has designed, developed,
-                          and implemented cutting-edge software tools, delivering impactful solutions for organization
-                        </p>
+                        <p>A results-driven Data Scientist with a proven track record in developing and deploying
+                          advanced analytics models. Skilled in data infrastructure, statistical analysis, and machine
+                          learning, with a focus on delivering insights that support business goals.</p>
                       </div>
                     </div>
                   </div>
@@ -333,7 +331,7 @@
                 <div class="swiper-slide">
                   <div class="member-card">
                     <div class="member-image">
-                      <img src="assets/wonderkidassets/team/man2.jpeg" class="img-fluid" alt="DANIEL KAMIRI"
+                      <img src="assets/wonderkidassets/team/dan.jpg" class="img-fluid" alt="DANIEL KAMIRI"
                         loading="lazy">
                     </div>
                     <div class="member-info">
@@ -358,21 +356,23 @@
                 <div class="swiper-slide">
                   <div class="member-card">
                     <div class="member-image">
-                      <img src="assets/wonderkidassets/team/man3.jpeg" class="img-fluid" alt="PHILLIP MWANIKI"
+                      <img src="assets/wonderkidassets/team/dickson.jpg" class="img-fluid" alt="DICKSON MARIRA"
                         loading="lazy">
                     </div>
                     <div class="member-info">
-                      <h3>Phillip Mwaniki</h3>
-                      <span>Head of Engineering</span>
+                      <h3>Dickson Marira</h3>
+                      <span>Chief Executive Officer</span>
                       <div class="member-social">
-                        <a href="https://x.com/phillipmwaniki"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://www.facebook.com/phillipmwaniki"><i class="bi bi-facebook"></i></a>
-                        <a href="https://www.linkedin.com/in/pmwaniki/"><i class="bi bi-linkedin"></i></a>
+                        <a href="https://x.com/dicksonmarira"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://www.facebook.com/dmarira"><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/dicksonmarira/"><i class="bi bi-linkedin"></i></a>
                       </div>
                       <div class="member-bio">
-                        <p>With over a decade of backend development experience, he specializes in building scalable PHP
-                          (Laravel) applications, high-performance APIs, and robust system architectures. He is
-                          passionate about mentorship, teamwork, and delivering efficient, reliable software solutions.
+                        <p>An accomplished leader, project manager, and software engineer with over 13
+                          years of experience driving innovation and transformation in public, private, and
+                          international development organizations. Throughout his career, he has designed, developed,
+                          and implemented cutting-edge software tools, delivering impactful solutions for your
+                          organization
                         </p>
                       </div>
                     </div>
@@ -382,30 +382,7 @@
                 <div class="swiper-slide">
                   <div class="member-card">
                     <div class="member-image">
-                      <img src="assets/wonderkidassets/team/woman1.jpeg" class="img-fluid" alt="ABIGAL LYANI"
-                        loading="lazy">
-                    </div>
-                    <div class="member-info">
-                      <h3>Abigael Lyani</h3>
-                      <span>Head of Project Implementations</span>
-                      <div class="member-social">
-                        <a href="#"><i class="bi bi-twitter-x"></i></a>
-                        <a href="#"><i class="bi bi-facebook"></i></a>
-                        <a href="https://www.linkedin.com/in/abigaelmulima/"><i class="bi bi-linkedin"></i></a>
-                      </div>
-                      <div class="member-bio">
-                        <p>A results-driven Data Scientist with a proven track record in developing and deploying
-                          advanced analytics models. Skilled in data infrastructure, statistical analysis, and machine
-                          learning, with a focus on delivering insights that support business goals.</p>
-                      </div>
-                    </div>
-                  </div>
-                </div><!-- End slide item -->
-
-                <div class="swiper-slide">
-                  <div class="member-card">
-                    <div class="member-image">
-                      <img src="assets/wonderkidassets/team/woman2.jpeg" class="img-fluid" alt="ROSEMARY KHALIFA"
+                      <img src="assets/wonderkidassets/team/rosemary.jpg" class="img-fluid" alt="ROSEMARY KHALIFA"
                         loading="lazy">
                     </div>
                     <div class="member-info">
@@ -421,6 +398,30 @@
                         <p>Head of Business Development at Wonderkid Multimedia Limited, leading strategic growth
                           initiatives in the technology and software sector. Leverages data-driven insights and market
                           trends to drive product adoption and strengthen client engagement.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End slide item -->
+
+                <div class="swiper-slide">
+                  <div class="member-card">
+                    <div class="member-image">
+                      <img src="assets/wonderkidassets/team/phillip.jpg" class="img-fluid" alt="PHILLIP MWANIKI"
+                        loading="lazy">
+                    </div>
+                    <div class="member-info">
+                      <h3>Phillip Mwaniki</h3>
+                      <span>Head of Engineering</span>
+                      <div class="member-social">
+                        <a href="https://x.com/phillipmwaniki"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://www.facebook.com/phillipmwaniki"><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/pmwaniki/"><i class="bi bi-linkedin"></i></a>
+                      </div>
+                      <div class="member-bio">
+                        <p>With over a decade of backend development experience, he specializes in building scalable PHP
+                          (Laravel) applications, high-performance APIs, and robust system architectures. He is
+                          passionate about mentorship, teamwork, and delivering efficient, reliable software solutions.
+                        </p>
                       </div>
                     </div>
                   </div>

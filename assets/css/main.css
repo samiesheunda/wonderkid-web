@@ -1711,275 +1711,6 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Testimonials Section
---------------------------------------------------------------*/
-.testimonials .testimonial-item {
-  background-color: var(--surface-color);
-  border-radius: 12px;
-  padding: 30px;
-  margin-bottom: 20px;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
-  height: 100%;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.testimonials .testimonial-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
-}
-
-.testimonials .testimonial-item .stars {
-  margin-bottom: 15px;
-  color: #FFD700;
-}
-
-.testimonials .testimonial-item .stars i {
-  margin-right: 2px;
-}
-
-.testimonials .testimonial-item p {
-  font-size: 16px;
-  line-height: 1.6;
-  margin-bottom: 25px;
-  color: var(--default-color);
-}
-
-.testimonials .testimonial-item .testimonial-footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.testimonials .testimonial-item .testimonial-footer .testimonial-author {
-  display: flex;
-  align-items: center;
-}
-
-.testimonials .testimonial-item .testimonial-footer .testimonial-author img {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-right: 15px;
-  border: 3px solid color-mix(in srgb, var(--accent-color), transparent 80%);
-}
-
-.testimonials .testimonial-item .testimonial-footer .testimonial-author div h5 {
-  margin: 0 0 5px;
-  font-size: 18px;
-  font-weight: 600;
-  color: var(--heading-color);
-}
-
-.testimonials .testimonial-item .testimonial-footer .testimonial-author div span {
-  font-size: 14px;
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
-}
-
-.testimonials .testimonial-item .testimonial-footer .quote-icon {
-  font-size: 36px;
-  color: color-mix(in srgb, var(--accent-color), transparent 70%);
-  line-height: 1;
-}
-
-.testimonials .testimonial-item .testimonial-footer .quote-icon i {
-  transform: scaleX(-1);
-}
-
-@media (max-width: 768px) {
-  .testimonials .testimonial-item {
-    padding: 25px 20px;
-  }
-
-  .testimonials .testimonial-item p {
-    font-size: 15px;
-    margin-bottom: 20px;
-  }
-
-  .testimonials .testimonial-item .testimonial-footer .testimonial-author img {
-    width: 45px;
-    height: 45px;
-  }
-
-  .testimonials .testimonial-item .testimonial-footer .testimonial-author div h5 {
-    font-size: 16px;
-  }
-
-  .testimonials .testimonial-item .testimonial-footer .testimonial-author div span {
-    font-size: 13px;
-  }
-
-  .testimonials .testimonial-item .testimonial-footer .quote-icon {
-    font-size: 30px;
-  }
-}
-
-@media (max-width: 576px) {
-  .testimonials .testimonial-item {
-    padding: 20px 15px;
-  }
-
-  .testimonials .testimonial-item .testimonial-footer .testimonial-author img {
-    width: 40px;
-    height: 40px;
-    margin-right: 10px;
-  }
-}
-
-/*--------------------------------------------------------------
-# How We Work Section
---------------------------------------------------------------*/
-.how-we-work .steps-wrapper {
-  position: relative;
-  padding: 20px 0;
-}
-
-.how-we-work .steps-wrapper::before {
-  content: "";
-  position: absolute;
-  width: 2px;
-  background-color: color-mix(in srgb, var(--accent-color), transparent 85%);
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.how-we-work .step-item {
-  margin-bottom: 50px;
-  width: 100%;
-  position: relative;
-}
-
-.how-we-work .step-item:last-child {
-  margin-bottom: 0;
-}
-
-.how-we-work .step-item:nth-child(even) .step-content {
-  flex-direction: row-reverse;
-}
-
-.how-we-work .step-content {
-  display: flex;
-  align-items: center;
-  gap: 30px;
-}
-
-.how-we-work .step-icon {
-  flex-shrink: 0;
-  width: 80px;
-  height: 80px;
-  background-color: var(--surface-color);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  z-index: 1;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-  border: 2px solid color-mix(in srgb, var(--accent-color), transparent 85%);
-  transition: all 0.3s ease-in-out;
-}
-
-.how-we-work .step-icon i {
-  font-size: 32px;
-  color: var(--accent-color);
-  transition: transform 0.3s ease-in-out;
-}
-
-.how-we-work .step-info {
-  flex: 1;
-  background-color: var(--surface-color);
-  padding: 30px;
-  border-radius: 8px;
-  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.05);
-  transition: transform 0.3s ease-in-out;
-}
-
-.how-we-work .step-info:hover {
-  transform: translateY(-5px);
-}
-
-.how-we-work .step-number {
-  display: inline-block;
-  font-family: var(--heading-font);
-  font-size: 0.9rem;
-  font-weight: 600;
-  color: var(--accent-color);
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 10px;
-}
-
-.how-we-work h3 {
-  font-size: 1.3rem;
-  margin-bottom: 15px;
-  font-weight: 600;
-  color: var(--heading-color);
-}
-
-.how-we-work p {
-  color: color-mix(in srgb, var(--default-color), transparent 20%);
-  font-size: 1rem;
-  line-height: 1.6;
-  margin-bottom: 0;
-}
-
-@media (max-width: 991px) {
-  .how-we-work .steps-wrapper::before {
-    left: 25px;
-  }
-
-  .how-we-work .step-item .step-content {
-    flex-direction: row !important;
-  }
-
-  .how-we-work .step-icon {
-    width: 60px;
-    height: 60px;
-  }
-
-  .how-we-work .step-icon i {
-    font-size: 24px;
-  }
-
-  .how-we-work .step-info {
-    padding: 20px;
-  }
-
-  .how-we-work h3 {
-    font-size: 1.3rem;
-  }
-}
-
-@media (max-width: 767px) {
-  .how-we-work .step-content {
-    gap: 20px;
-  }
-
-  .how-we-work .step-icon {
-    width: 50px;
-    height: 50px;
-  }
-
-  .how-we-work .step-icon i {
-    font-size: 20px;
-  }
-
-  .how-we-work .step-info {
-    padding: 15px;
-  }
-
-  .how-we-work h3 {
-    font-size: 1.2rem;
-  }
-
-  .how-we-work p {
-    font-size: 0.95rem;
-  }
-}
-
-/*--------------------------------------------------------------
 # Faq Section
 --------------------------------------------------------------*/
 .faq .faq-tabs .nav-pills {
@@ -2405,8 +2136,9 @@ section,
 
 .team .member-card .member-image {
   position: relative;
-  overflow: hidden;
-  height: 240px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .team .member-card .member-image:before {
@@ -2471,6 +2203,7 @@ section,
   border-radius: 6px;
   font-size: 16px;
   transition: all 0.3s ease;
+  margin-bottom: 0;
 }
 
 .team .member-card .member-social a:hover {
@@ -2480,10 +2213,9 @@ section,
 }
 
 .team .member-card .member-bio p {
-  font-size: 14px;
-  line-height: 1.6;
-  color: color-mix(in srgb, var(--default-color), transparent 20%);
-  margin-bottom: 0;
+  display: none;
+  margin: 0;
+  padding: 0;
 }
 
 .team .team-carousel-wrap {
