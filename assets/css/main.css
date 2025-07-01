@@ -766,7 +766,7 @@ section,
 }
 
 .hero h1 .highlight {
-  color: var(--alt-color);
+  color: var(--nav-dropdown-background-color);
 }
 
 @media (min-width: 992px) {
